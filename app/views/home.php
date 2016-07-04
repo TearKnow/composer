@@ -1,3 +1,4 @@
-<?php //echo $title;?>
-1111111
-<?php //echo $content;?>
+<?php 
+    echo $article['title'] . "<br>";
+    echo $article['content'];
+?>
